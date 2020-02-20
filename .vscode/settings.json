@@ -1,0 +1,12 @@
+{
+  //   "python.pythonPath": "C:\\Program Files (x86)\\Python38-32\\python.exe",
+  "python.pythonPath": "C:\\Program Files (x86)\\Python38-32\\python.exe",
+  // "python.pythonPath": "C:\\Users\\bayu\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+  "team.showWelcomeMessage": false,
+  "editor.formatOnSave": true,
+  "python.linting.pycodestyleEnabled": false,
+  "python.linting.pylintPath": "pylint",
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
